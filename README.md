@@ -1,6 +1,6 @@
-# _Band website_
+# _EpiShelter_
 
-#### _Band website 01/09/2019_
+#### _Dog shelter website 01/09/2019_
 
 #### By _**Mark Strickland and Olha Wysocky**_
 
