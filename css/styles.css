@@ -1,0 +1,28 @@
+.column {
+  width: 14%;
+  float: left;
+  margin: 1%;
+}
+
+.border {
+  padding: 2%;
+  background-color: beige;
+  border-style: double;
+}
+
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  font-style: italic;
+}
+p {
+  font-family: cursive;
+}
+body {
+  font-family: sans-serif;
+}
